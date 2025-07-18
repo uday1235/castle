@@ -1,6 +1,6 @@
 "use client"
 
-import Header from "../components/Header/page";
+import Header from "../components/Header";
 import { CheckCircleIcon } from "@heroicons/react/solid";
 import { useRouter } from "next/navigation";
 
